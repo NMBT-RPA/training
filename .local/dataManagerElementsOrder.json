@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "desUserData&Sequence_4",
+        "dtGepg&Sequence_4",
+        "dtTanesco&Sequence_4",
+        "dtOutstandingGepg&Sequence_4",
+        "dtOutstandingGepg&Sequence_3",
+        "dtTanesco&Sequence_3",
+        "dtGepg&Sequence_3",
+        "desUserData&Sequence_3",
+        "userDataOutput&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
